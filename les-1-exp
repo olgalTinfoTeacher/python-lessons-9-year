@@ -1,1 +1,11 @@
-/
+print("Привіт! Сьогодні ми вчимо Python!")
+
+1name = input("Введи своє ім'я: ")
+age = input("Скільки тобі років? ")
+
+print("Привіт,", 1name)
+print("Тобі", Age, "років")
+
+birth year = 2025 - int(age)
+print("Ти народився у", birth_year, "році")
+
